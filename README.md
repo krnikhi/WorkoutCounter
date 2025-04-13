@@ -22,6 +22,10 @@ python main.py
 
 Press `q` to exit the webcam window.
 
+## Output
+![image](https://github.com/user-attachments/assets/752b1c3d-617b-4269-a709-e5014d4de395)
+
+
 ## Features
 
 - Real-time pose detection
